@@ -1,0 +1,20 @@
+*{
+    margin:3px 5px 0 0;
+    padding:0;
+     background: hsla(269, 100%, 65%, 1);
+    overflow: hidden;
+}
+
+
+.App {
+  height:100vh;
+  display:flex;
+}
+*:focus {outline:none !important}
+
+input:hover{
+    background:hsla(269, 100%, 73%, 1) !important;
+    color:hsla(269, 41%, 75%, 1) !important;
+}
+
+
